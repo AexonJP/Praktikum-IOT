@@ -18,6 +18,9 @@ Komponen yang Digunakan :
 1. LED
 2. breadboard
 3. resistor
+
+Video :
+https://drive.google.com/drive/folders/1_1GxTHsyMlU8gog3DZg_hWZLSSjVaO1W
    
 Board Schematic :
 
